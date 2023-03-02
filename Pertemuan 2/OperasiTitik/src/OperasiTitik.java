@@ -1,7 +1,7 @@
 /**
  * File : Titik.java 25/02/18
  * Penulis : Muhammad Akmal Iskandar
- * Deskripsi : Membuat Titik
+ * Deskripsi : Membuat OperasiTitik
  */
 class Titik{
     // Atribut
