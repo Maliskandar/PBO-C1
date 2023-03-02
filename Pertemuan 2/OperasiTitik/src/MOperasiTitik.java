@@ -1,7 +1,7 @@
 /**
  * File : MOperasiTitik.java 25/02/18
  * Penulis : Muhammad Akmal Iskandar
- * Deskripsi : Membuat Titik
+ * Deskripsi : Program utama yang memanfaatkan OperasiTitik
  */
 public class MOperasiTitik {
     public static void main(String[] args) {
