@@ -1,3 +1,9 @@
+
+/*
+* File : SegiTiga.java 08/03/2023
+* Penulis : Muhammad Akmal Iskandar
+* Deskripsi : representasi dasar dari objek poligon (segi banyak)
+* */
 package org.bangundatar;
 
 import org.poligon.*;
