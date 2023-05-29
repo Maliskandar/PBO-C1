@@ -1,3 +1,9 @@
+/**
+ * File : Asersi2.java 30/05/2023
+ * Penulis : Muhammad Akmal Iskandar
+ * Deskripsi : Program untuk demo asersi, yang akan menolak input
+ * jari jari lingkaran bernilai nol
+ */
 class Lingkaran{
     private double jariJari;
     public Lingkaran(double jariJari){
